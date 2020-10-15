@@ -8,6 +8,6 @@ You need an https://numverify.com/ API
 git clone https://github.com/FsKir/FireFly3.git
 
 cd firefly3
-gedit firefly.py #insert your Api key!
+vi firefly.py #insert your Api key!
 python3 firefly.py
 ```
